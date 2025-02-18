@@ -1,0 +1,8 @@
+NAME="cocoLinux"
+PRETTY_NAME="coco"
+ID=arch
+BUILD_ID=rolling
+ANSI_COLOR="38;2;23;147;209"
+HOME_URL="https://github.com/C0C0B01/coco"
+BUG_REPORT_URL="https://github.com/C0C0B01/coco"
+LOGO=cocoLinux
